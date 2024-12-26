@@ -1,4 +1,4 @@
-package factorymethod.example1;
+package factorymethod;
 interface FileGenerator{
     void generateFile();
 }
